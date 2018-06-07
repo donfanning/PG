@@ -1,0 +1,444 @@
+Loc_name,Status,Score,Match_type,Match_addr,Addr_type,City,Postal,Country,Distance,X,Y,idm,year,rank_1,company_na,address,address2,city_1,zip,industry,foundingye,revenue,employees,growth,high,county,state_name,county_nam,state_code,cbsa,metro,full_name,FID_2,STATEFP,COUNTYFP,TRACTCE,GEOID,NAME,NAMELSAD,MTFCC,FUNCSTAT,ALAND,AWATER,INTPTLAT,INTPTLON
+USA.PointAddress,M,100,A,"1501 W Ohio St, Indianapolis, Indiana, 46222",PointAddress,Indianapolis,46222,USA,0,-86.188128,39.769643,20090764,2009,765,CMR Construction & Roofing,1501 W. Ohio St.,N/A,Indianapolis,46222,Construction,2002,22756433,95,3.783,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",239,18,97,356400,18097356400,3564,Census Tract 3564,G5020,S,3824636,224926,39.7653157,-86.1846379
+USA.PointAddress,M,100,A,"705 E Main St, Westfield, Indiana, 46074",PointAddress,Westfield,46074,USA,0,-86.117891,40.042834,20121871,2012,1871,maxIT Healthcare,705 E. Main Street, ,Westfield,46074,Health,2001,179400000,959,1.472,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",254,18,57,110401,18057110401,1104.01,Census Tract 1104.01,G5020,S,26678854,77064,40.0672582,-86.147551
+USA.PointAddress,M,100,A,"6501 Julian Ave, Indianapolis, Indiana, 46219",PointAddress,Indianapolis,46219,USA,0,-86.055791,39.769463,20110642,2011,643,Mansfield-King,6501 Julian Avenue, ,Indianapolis,46219,Consumer Products & Services,0,6824254,45,4.991786,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",282,18,97,360700,18097360700,3607,Census Tract 3607,G5020,S,2051481,0,39.775835,-86.0554652
+USA.PointAddress,M,100,A,"2002 Wellesley Blvd, Indianapolis, Indiana, 46219",PointAddress,Indianapolis,46219,USA,0,-86.032467,39.79492,20092102,2009,2103,Premiere Credit of North America,2002 Wellesley Blvd.,N/A,Indianapolis,46219,Financial Services,1999,19842628,291,1.51,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",287,18,97,360602,18097360602,3606.02,Census Tract 3606.02,G5020,S,4399246,10732,39.7835678,-86.0365859
+USA.PointAddress,M,100,A,"1919 S Girls School Rd, Indianapolis, Indiana, 46241",PointAddress,Indianapolis,46241,USA,0,-86.288767,39.738945,20153635,2015,3635,Aerodyn Engineering,1919 South Girls School Road, ,Indianapolis,46241,Engineering,2002,17430882,84,0.859,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",303,18,97,342101,18097342101,3421.01,Census Tract 3421.01,G5020,S,4873488,8967,39.7475264,-86.2765837
+USA.PointAddress,M,100,A,"6555 Guion Rd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.231555,39.875521,20132054,2013,2056,Floors To Your Home,6555 Guion Road, ,Indianapolis,46268,Consumer Products & Services,2004,8033086,23,1.8171,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",314,18,97,310204,18097310204,3102.04,Census Tract 3102.04,G5020,S,5585718,0,39.8755603,-86.2213039
+USA.PointAddress,M,100,A,"2265 Executive Dr, Indianapolis, Indiana, 46241",PointAddress,Indianapolis,46241,USA,0,-86.254958,39.734852,20110957,2011,958,AIT Laboratories,2265 Executive Drive, ,Indianapolis,46241,Health,1990,68239111,477,3.178514,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",369,18,97,342200,18097342200,3422,Census Tract 3422,G5020,S,6482518,7014,39.7421215,-86.257103
+USA.PointAddress,M,100,A,"5701 Fortune Cir S, Indianapolis, Indiana, 46241",PointAddress,Indianapolis,46241,USA,0,-86.260441,39.721874,20110091,2011,91,KPaul,5701 Fortune Circle S,Suite K,Indianapolis,46241,Government Services,2004,16240090,105,27.95296,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",369,18,97,342200,18097342200,3422,Census Tract 3422,G5020,S,6482518,7014,39.7421215,-86.257103
+USA.PointAddress,M,100,A,"5550 Progress Rd, Indianapolis, Indiana, 46241",PointAddress,Indianapolis,46241,USA,0,-86.255652,39.741228,20083403,2008,3397,Unique Window & Door,5550 Progress Rd., ,Indianapolis,46241,Consumer Products & Services,1983,16082950,115,0.9804,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",369,18,97,342200,18097342200,3422,Census Tract 3422,G5020,S,6482518,7014,39.7421215,-86.257103
+USA.PointAddress,M,100,A,"9710 Park Davis Dr, Indianapolis, Indiana, 46235",PointAddress,Indianapolis,46235,USA,0,-85.997405,39.819827,20083692,2008,3687,Trilithic,9710 Park Davis Drive, ,Indianapolis,46235,Telecommunications,1987,39876162,135,0.8526,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",394,18,97,360402,18097360402,3604.02,Census Tract 3604.02,G5020,S,2633185,0,39.8188236,-86.0003997
+USA.PointAddress,M,100,A,"3590 N Meridian St, Indianapolis, Indiana, 46208",PointAddress,Indianapolis,46208,USA,0,-86.156867,39.820919,20143267,2014,3267,Willow Marketing Management,3590 North Meridian Street,Suite 200,Indianapolis,46208,Advertising & Marketing,1992,3120865,22,1.052,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",410,18,97,350300,18097350300,3503,Census Tract 3503,G5020,S,677815,0,39.8211605,-86.1592092
+USA.PointAddress,M,100,A,"7840 Innovation Blvd, Indianapolis, Indiana, 46278",PointAddress,Indianapolis,46278,USA,0,-86.267267,39.895091,20150179,2015,179,AIT Bioscience,7840 Innovation Boulevard, ,Indianapolis,46278,Health,2009,5910819,43,23.1071,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"4825 W 79th St, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.241481,39.896683,20080640,2008,638,Bone Dry Roofing,4825 W 79th Street, ,Indianapolis,46268,Construction,1987,25067622,110,5.2079,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"7820 Innovation Blvd, Indianapolis, Indiana, 46278",PointAddress,Indianapolis,46278,USA,0,-86.267267,39.894911,20101329,2010,1327,DyKnow,7820 Innovation Blvd. Suite 225, ,Indianapolis,46278,Education,2003,2221184,0,2.209,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.StreetName,M,100,A,"W 73rd St, Indianapolis, Indiana, 46278",StreetName,Indianapolis,46278,USA,0,-86.263329,39.884875,20081978,2008,1973,Endangered Species Chocolate,5346 West 73rd Street, ,Indianapolis,46278,Food & Beverage,1993,13227000,52,1.8867,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"7820 Innovation Blvd, Indianapolis, Indiana, 46278",PointAddress,Indianapolis,46278,USA,0,-86.267267,39.894911,20153754,2015,3754,Indigo BioAutomation,7820 Innovation Boulevard,Suite 250,Indianapolis,46278,Health,2006,2772000,45,0.8153,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"7898 Zionsville Rd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.259837,39.89558,20133324,2013,3326,POLARIS Laboratories,7898 Zionsville Road, ,Indianapolis,46268,Energy,1999,20851736,220,0.9516,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"7260 Georgetown Rd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.243576,39.885428,20143757,2014,3757,Progressive Design Apparel,7260 Georgetown Road, ,Indianapolis,46268,Consumer Products & Services,1989,3316808,25,0.837,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"7736 Zionsville Rd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.259857,39.893411,20152684,2015,2684,PTS Diagnostics,7736 Zionsville Rd, ,Indianapolis,46268,Health,1992,45732613,177,1.3651,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.StreetAddress,M,100,A,"7835 Woodland Dr, Indianapolis, Indiana, 46278",StreetAddress,Indianapolis,46278,USA,0,-86.265424,39.891211,20092694,2009,2695,T2 Systems,7835 Woodland Dr.,Ste. 250,Indianapolis,46278,Business Products & Services,1994,16119921,111,1.086,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"7225 Georgetown Rd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.243797,39.884133,20080053,2008,53,Trace Communications,7225 Georgetown Rd, ,Indianapolis,46268,Advertising & Marketing,2003,8953130,16,28.9617,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"7225 Georgetown Rd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.243797,39.884133,20082207,2008,2201,Tri-Auto Enterprises,7225 Georgetown Rd, ,Indianapolis,46268,Advertising & Marketing,2001,26875598,85,1.678,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"5352 W 78th St, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.253463,39.893968,20081381,2008,1377,Venture Logistics,5352 West 78th Street, ,Indianapolis,46268,Logistics & Transportation,2000,83314737,400,2.7573,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.PointAddress,M,100,A,"5751 W 73rd St, Indianapolis, Indiana, 46278",PointAddress,Indianapolis,46278,USA,0,-86.263841,39.884843,20100329,2010,327,Wellfount Pharmacy,5751 W. 73rd Street, ,Indianapolis,46278,Health,2006,8374799,59,9.099,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",537,18,97,310201,18097310201,3102.01,Census Tract 3102.01,G5020,S,8925868,0,39.8896519,-86.2370086
+USA.Postal,M,100,A,"46268, Indianapolis, Indiana",Postal,Indianapolis,46268,USA,0,-86.210759,39.906867,20151574,2015,1574,FitzMark,Fitzmark,PO Box 68847,Indianapolis,46268,Logistics & Transportation,2006,62288085,77,2.583,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",551,18,97,310106,18097310106,3101.06,Census Tract 3101.06,G5020,S,2247932,0,39.9050362,-86.211249
+USA.PointAddress,M,100,A,"5421 W 84th St, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.25286,39.907163,20140410,2014,410,Construct Solutions,5421 W. 84th Street, ,Indianapolis,46268,Construction,2007,8052266,65,11.5185,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",554,18,97,310105,18097310105,3101.05,Census Tract 3101.05,G5020,S,7035307,0,39.9037291,-86.244477
+USA.PointAddress,M,100,A,"8112 Woodland Dr, Indianapolis, Indiana, 46278",PointAddress,Indianapolis,46278,USA,0,-86.266968,39.90061,20143164,2014,3164,Sullivan Commercial Supply,8112 Woodland Dr., ,Indianapolis,46278,Business Products & Services,2008,7782118,15,1.1077,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",554,18,97,310105,18097310105,3101.05,Census Tract 3101.05,G5020,S,7035307,0,39.9037291,-86.244477
+USA.PointAddress,M,100,A,"3905 Vincennes Rd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.227362,39.915133,20112035,2011,2035,Adayana,3905 Vincennes Rd.,Suite 402,Indianapolis,46268,Business Products & Services,0,45151000,300,1.248556,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",555,18,97,310104,18097310104,3101.04,Census Tract 3101.04,G5020,S,9114461,70590,39.9182841,-86.2390016
+USA.PointAddress,M,100,A,"3500 Depauw Blvd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.223002,39.920358,20151151,2015,1151,Element Three,3500 Depauw Blvd,Suite 3050,Indianapolis,46268,Advertising & Marketing,2006,4198900,40,3.6704,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",555,18,97,310104,18097310104,3101.04,Census Tract 3101.04,G5020,S,9114461,70590,39.9182841,-86.2390016
+USA.StreetAddress,M,100,A,"9100 Purdue Rd, Indianapolis, Indiana, 46268",StreetAddress,Indianapolis,46268,USA,0,-86.221736,39.91883,20133653,2013,3654,Fifth Gear,9100 Purdue Road,Suite 400,Indianapolis,46268,Logistics & Transportation,1982,51448525,533,0.8139,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",555,18,97,310104,18097310104,3101.04,Census Tract 3101.04,G5020,S,9114461,70590,39.9182841,-86.2390016
+USA.StreetAddress,M,90.92,A,"3905 Vincennes Rd, Indianapolis, Indiana, 46268",StreetAddress,Indianapolis,46268,USA,0,-86.227281,39.915136,20133336,2013,3338,Innovative Integration,3905 Vincennes Circle,Suite 110,Indianapolis,46268,IT Services,2005,7703341,25,0.9457,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",555,18,97,310104,18097310104,3101.04,Census Tract 3101.04,G5020,S,9114461,70590,39.9182841,-86.2390016
+USA.PointAddress,M,100,A,"4287 W 96th St, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.232652,39.926123,20153955,2015,3955,iTech Digital,4287 W. 96th Street, ,Indianapolis,46268,Security,1999,6984824,32,0.7457,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",555,18,97,310104,18097310104,3101.04,Census Tract 3101.04,G5020,S,9114461,70590,39.9182841,-86.2390016
+USA.PointAddress,M,100,A,"8910 Purdue Rd, Indianapolis, Indiana, 46268",PointAddress,Indianapolis,46268,USA,0,-86.221003,39.917187,20110709,2011,710,Officescape,8910 Purdue Rd.,Suite 480,Indianapolis,46268,Business Products & Services,2000,8434600,48,4.44906,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",555,18,97,310104,18097310104,3101.04,Census Tract 3101.04,G5020,S,9114461,70590,39.9182841,-86.2390016
+USA.StreetAddress,M,90.92,A,"11590 N Meridian St, Carmel, Indiana, 46032",StreetAddress,Carmel,46032,USA,0,-86.157952,39.955098,20132854,2013,2856,Blue Horseshoe Solutions,11590 N. Meridian,Ste 520,Carmel,46032,Software,2001,23848580,111,1.2018,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",616,18,57,111001,18057111001,1110.01,Census Tract 1110.01,G5020,S,28010846,489453,39.9599076,-86.1977182
+USA.PointAddress,M,100,A,"12800 N Meridian St, Carmel, Indiana, 46032",PointAddress,Carmel,46032,USA,0,-86.158057,39.97311,20111780,2011,1780,Iasta,12800 N. Meridian St,Suite 425,Carmel,46032,Software,2000,9070998,46,1.494179,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",616,18,57,111001,18057111001,1110.01,Census Tract 1110.01,G5020,S,28010846,489453,39.9599076,-86.1977182
+USA.StreetAddress,M,90.92,A,"12400 N Meridian St, Carmel, Indiana, 46032",StreetAddress,Carmel,46032,USA,0,-86.158538,39.970277,20150281,2015,281,Mesh Systems,"12400 N. Meridian, Suite 175", ,Carmel,46032,Software,2005,7174997,14,16.4536,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",616,18,57,111001,18057111001,1110.01,Census Tract 1110.01,G5020,S,28010846,489453,39.9599076,-86.1977182
+USA.PointAddress,M,100,A,"1401 N Meridian St, Indianapolis, Indiana, 46202",PointAddress,Indianapolis,46202,USA,0,-86.157326,39.785739,20143638,2014,3638,Apparatus,1401 N. Meridian St., ,Indianapolis,46202,IT Services,1999,24238143,163,0.8855,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",689,18,97,353300,18097353300,3533,Census Tract 3533,G5020,S,1626969,0,39.7888046,-86.1590874
+USA.PointAddress,M,100,A,"1424 Country Club Rd, Nashville, Indiana, 47448",PointAddress,Nashville,47448,USA,0,-86.273287,39.2084,20130724,2013,726,BAA,1424 COUNTRY CLUB RD, ,NASHVILLE,47448,Business Products & Services,1996,2203277,30,6.3292,1,18013,IN,Brown County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",694,18,13,974900,18013974900,9749,Census Tract 9749,G5020,S,441478784,6860651,39.1307968,-86.2126438
+USA.PointAddress,M,100,A,"136 E Market St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.155191,39.768468,20100518,2010,516,Entap,136 E. Market St., ,Indianapolis,46204,IT Services,2004,4146311,18,5.86,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"1060 N Capitol Ave, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.161238,39.78205,20082138,2008,2132,Enviroforensics,1060 N. Capitol Avenue,Suite E-230,Indianapolis,46204,Environmental Services,2002,5603816,0,1.7329,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"20 N Meridian St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.158077,39.767763,20121576,2012,1576,ExactTarget,"20 North Meridian Street, Suite 200", ,Indianapolis,46204,Software,2000,207500000,1133,1.868,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"1 N Pennsylvania St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.156236,39.76735,20141218,2014,1218,Express Software & Services,1 N Pennsylvania St.,Suite 1100,Indianapolis,46204,Software,2010,2014316,25,3.5914,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"300 N Meridian St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.157958,39.771571,20150026,2015,26,HighPoint Global,300 N. Meridian Street,Suite 190,Indianapolis,46204,Government Services,2006,95469211,225,81.2324,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.StreetAddress,M,90.92,A,"120 E Market St, Indianapolis, Indiana, 46204",StreetAddress,Indianapolis,46204,USA,0,-86.155586,39.76848,20091247,2009,1248,LGC Associates,120 East Market 1010,N/A,Indianapolis,46204,Human Resources,2001,10943594,45,2.54,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.StreetAddress,M,90.92,A,"429 N Pennsylvania St, Indianapolis, Indiana, 46204",StreetAddress,Indianapolis,46204,USA,0,-86.155974,39.773495,20131806,2013,1808,Novia CareClinics,429 N. Pennsylvania Ave.,Suite 400,Indianapolis,46204,Health,2006,17907362,195,2.1225,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"120 E Market St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.155521,39.768479,20150536,2015,536,Rook Security,120 East Market Street,Suite 100,Indianapolis,46204,Security,2008,6885445,53,8.6574,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"300 S Meridian St, Indianapolis, Indiana, 46225",PointAddress,Indianapolis,46225,USA,0,-86.158268,39.762561,20102456,2010,2454,RW Armstrong,300 S. Meridian St., ,Indianapolis,46225,Engineering,1961,95381734,557,0.993,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"1 Indiana Sq, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.156075,39.77055,20152409,2015,2409,SmartIT,1 Indiana Square,Suite 2350,Indianapolis,46204,IT Services,2005,41207420,420,1.566,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"47 S Pennsylvania St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.156276,39.765829,20152190,2015,2190,Sondhi Solutions,47 South Pennsylvania St,Suite 205,Indianapolis,46204,IT Services,2009,4053242,45,1.7888,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"445 N Pennsylvania St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.155957,39.773828,20152267,2015,2267,Spot Freight,445 N. Pennsylvania St.,7th Floor,Indianapolis,46204,Logistics & Transportation,2009,38987965,36,1.715,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"20 N Meridian St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.158077,39.767763,20143027,2014,3027,YourEncore,20 North Meridian Street,Suite 800,Indianapolis,46204,Health,2003,57604467,110,1.1783,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",705,18,97,391000,18097391000,3910,Census Tract 3910,G5020,S,6243020,230815,39.7691479,-86.1687839
+USA.PointAddress,M,100,A,"8225 E 56th St, Indianapolis, Indiana, 46216",PointAddress,Indianapolis,46216,USA,0,-86.022281,39.854973,20121624,2012,1624,Creative Solutions Consulting,"8225 E. 56th Street, Suite B", ,Indianapolis,46216,IT Services,2002,12289382,75,1.807,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",709,18,97,390600,18097390600,3906,Census Tract 3906,G5020,S,14295046,11155,39.8626768,-86.0283313
+USA.PointAddress,M,100,A,"5418 Elmwood Ave, Indianapolis, Indiana, 46203",PointAddress,Indianapolis,46203,USA,0,-86.075042,39.705668,20082050,2008,2044,Jackson Systems,5418 Elmwood Ave, ,Indianapolis,46203,Manufacturing,1997,8219710,-1,1.8071,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",730,18,97,390102,18097390102,3901.02,Census Tract 3901.02,G5020,S,6839128,0,39.7113792,-86.0694521
+USA.PointAddress,M,98.5,A,"750 Patrick Pl, Brownsburg, Indiana, 46112",PointAddress,Brownsburg,46112,USA,0,-86.381462,39.853739,20153835,2015,3835,Blood Hound Underground Utility Locators,750 Patricks Place, ,Brownsburg,46112,Construction,1999,7129455,46,0.7913,1,18063,IN,Hendricks County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",837,18,63,210201,18063210201,2102.01,Census Tract 2102.01,G5020,S,4238436,24447,39.8518656,-86.3959851
+USA.StreetName,M,100,A,"E 148th St, Noblesville, Indiana, 46060",StreetName,Noblesville,46060,USA,0,-85.99683,40.004635,20101592,2010,1590,Imavex,9516 E. 148th Street, ,Noblesville,46060,IT Services,2001,2091670,25,1.798,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",964,18,57,110506,18057110506,1105.06,Census Tract 1105.06,G5020,S,26277471,311413,40.0229962,-85.9834497
+USA.PointAddress,M,100,A,"13578 E 131st St, Fishers, Indiana, 46037",PointAddress,Fishers,46037,USA,0,-85.922191,39.981678,20111698,2011,1698,ORS,13578 E. 131st St Ste 220, ,Fishers,46037,Health,0,5191350,55,1.58488,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",969,18,57,110808,18057110808,1108.08,Census Tract 1108.08,G5020,S,18982457,356743,39.9660683,-85.9489273
+USA.Postal,M,100,A,"46120, Cloverdale, Indiana",Postal,Cloverdale,46120,USA,0,-86.794211,39.513254,20133002,2013,3004,Scorpion Coatings,Scorpion Protective Coatings,6184 S US Hwy 231,Cloverdale,46120,Manufacturing,1996,4617524,12,1.1221,1,18133,IN,Putnam County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1091,18,133,956500,18133956500,9565,Census Tract 9565,G5020,S,252038651,197307,39.5484257,-86.7501174
+USA.PointAddress,M,100,A,"2011 Southtech Dr, Greenwood, Indiana, 46143",PointAddress,Greenwood,46143,USA,0,-86.062971,39.618583,20112664,2011,2664,National Trade Supply,2011 Southtech Drive Suite 100, ,Greenwood,46143,Retail,2002,25325149,19,0.855777,1,18081,IN,Johnson County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1166,18,81,610100,18081610100,6101,Census Tract 6101,G5020,S,136550808,90749,39.5874763,-86.029468
+USA.PointAddress,M,100,A,"11711 N Meridian St, Carmel, Indiana, 46032",PointAddress,Carmel,46032,USA,0,-86.157606,39.959511,20152019,2015,2019,enVista,11711 N. Meridian Street,Suite 415,Carmel,46032,Logistics & Transportation,2002,56032241,327,1.9493,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1192,18,57,111008,18057111008,1110.08,Census Tract 1110.08,G5020,S,6056049,113222,39.9664305,-86.1420848
+USA.PointAddress,M,100,A,"645 W Carmel Dr, Carmel, Indiana, 46032",PointAddress,Carmel,46032,USA,0,-86.140371,39.965223,20091362,2009,1363,Information Systems Experts,645 W. Carmel Dr.,Suite 105,Carmel,46032,IT Services,1993,3682954,37,2.346,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1192,18,57,111008,18057111008,1110.08,Census Tract 1110.08,G5020,S,6056049,113222,39.9664305,-86.1420848
+USA.PointAddress,M,100,A,"550 Congressional Blvd, Carmel, Indiana, 46032",PointAddress,Carmel,46032,USA,0,-86.150193,39.959168,20151170,2015,1170,PolicyStat,550 Congressional Blvd.,Suite #100,Carmel,46032,Software,2006,2427078,27,3.5935,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1192,18,57,111008,18057111008,1110.08,Census Tract 1110.08,G5020,S,6056049,113222,39.9664305,-86.1420848
+USA.PointAddress,M,100,A,"111 Congressional Blvd, Carmel, Indiana, 46032",PointAddress,Carmel,46032,USA,0,-86.15362,39.958253,20153959,2015,3959,Shepherd Insurance,111 Congressional Boulevard,Suite 100,Carmel,46032,Insurance,1977,19735786,156,0.7438,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1192,18,57,111008,18057111008,1110.08,Census Tract 1110.08,G5020,S,6056049,113222,39.9664305,-86.1420848
+USA.PointAddress,M,100,A,"9865 E 116th St, Fishers, Indiana, 46037",PointAddress,Fishers,46037,USA,0,-85.992221,39.957004,20151587,2015,1587,AdvoPay,9865 E 116th Street,Suite 800,Fishers,46037,Financial Services,2010,2568108,32,2.56,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1194,18,57,110805,18057110805,1108.05,Census Tract 1108.05,G5020,S,7787692,488383,39.9432115,-85.9802158
+USA.StreetAddress,M,90.92,M,"8425 Woodfield Crossing Blvd, Indianapolis, Indiana, 46240",StreetAddress,Indianapolis,46240,USA,0,-86.12015,39.909592,20130074,2013,74,BidPal,8425 Woodfield Crossing,Suite 501,Indianapolis,46240,Business Products & Services,2008,10245166,88,43.2279,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1266,18,97,320202,18097320202,3202.02,Census Tract 3202.02,G5020,S,7563688,424426,39.8984484,-86.1302148
+USA.PointAddress,M,100,A,"8440 Woodfield Crossing Blvd, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.121362,39.910733,20120919,2012,919,GyanSys,8440 Woodfield Crossing Blvd,Ste. 290,Indianapolis,46240,IT Services,2005,15856821,130,3.563,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1266,18,97,320202,18097320202,3202.02,Census Tract 3202.02,G5020,S,7563688,424426,39.8984484,-86.1302148
+USA.PointAddress,M,90.92,M,"8440 Woodfield Crossing Blvd, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.121361,39.910733,20083725,2008,3720,"That's Good HR, Inc",8440 Woodfield Crossing Suite 370, ,Indianapolis,46240,Human Resources,1998,10002755,24,0.84,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1266,18,97,320202,18097320202,3202.02,Census Tract 3202.02,G5020,S,7563688,424426,39.8984484,-86.1302148
+USA.PointAddress,M,100,A,"9100 Keystone Xing, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.110023,39.918644,20100434,2010,432,Archway Technology Partners,9100 Keystone Crossing, ,Indianapolis,46240,Software,2002,3794205,23,6.932,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1267,18,97,320204,18097320204,3202.04,Census Tract 3202.04,G5020,S,6695039,151195,39.9184128,-86.1092043
+USA.PointAddress,M,100,A,"3750 Priority Way South Dr, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.102864,39.920038,20122056,2012,2056,Defender Direct,"3750 Priority Way South Drive, Suite 200",Company Address Line 2,Indianapolis,46240,Security,1998,312000000,100,1.284,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1267,18,97,320204,18097320204,3202.04,Census Tract 3202.04,G5020,S,6695039,151195,39.9184128,-86.1092043
+USA.StreetAddress,M,100,A,"9000 Keystone Xing, Indianapolis, Indiana, 46240",StreetAddress,Indianapolis,46240,USA,0,-86.109947,39.918772,20133073,2013,3075,FirstPerson,9000 Keystone Crossing,Suite 910,Indianapolis,46240,Insurance,1968,7624540,48,1.0827,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1267,18,97,320204,18097320204,3202.04,Census Tract 3202.04,G5020,S,6695039,151195,39.9184128,-86.1092043
+USA.PointAddress,M,100,A,"9339 Priority Way West Dr, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.106726,39.922971,20083018,2008,3011,Healthx,9339 Priority Way West Drive Suite 150, ,Indianapolis,46240,Construction,1994,7888850,45,1.1797,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1267,18,97,320204,18097320204,3202.04,Census Tract 3202.04,G5020,S,6695039,151195,39.9184128,-86.1092043
+USA.PointAddress,M,100,A,"8900 Keystone Xing, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.109715,39.917906,20142322,2014,2322,MMY Consulting,8900 Keystone Crossing,1035,Indianapolis,46240,IT Services,2003,13005612,95,1.6703,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1267,18,97,320204,18097320204,3202.04,Census Tract 3202.04,G5020,S,6695039,151195,39.9184128,-86.1092043
+USA.PointAddress,M,100,A,"8900 Keystone Xing, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.109715,39.917906,20130673,2013,675,Slingshot SEO,8900 Keystone Crossing,Suite 100,Indianapolis,46240,Advertising & Marketing,2006,10338385,81,6.762,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1267,18,97,320204,18097320204,3202.04,Census Tract 3202.04,G5020,S,6695039,151195,39.9184128,-86.1092043
+USA.PointAddress,M,100,A,"9190 Priority Way West Dr, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.106749,39.921232,20130420,2013,422,Stonegate Mortgage,9190 Priority Way West Drive,Suite 300,Indianapolis,46240,Financial Services,2005,95545374,444,10.7438,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1267,18,97,320204,18097320204,3202.04,Census Tract 3202.04,G5020,S,6695039,151195,39.9184128,-86.1092043
+USA.Postal,M,100,A,"46082, Carmel, Indiana",Postal,Carmel,46082,USA,0,-86.120224,39.959323,20150815,2015,815,Toussaint and Company,P.O. Box 1711, ,Carmel,46082,Human Resources,1983,2444546,2,5.4491,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1273,18,57,111007,18057111007,1110.07,Census Tract 1110.07,G5020,S,3055457,10433,39.9673513,-86.1209632
+USA.PointAddress,M,100,A,"3755 E 82nd St, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.102793,39.909225,20143751,2014,3751,Apex Benefits Group,3755 E. 82nd St.,Suite 100,Indianapolis,46240,Health,2003,6264215,40,0.8418,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1284,18,97,320301,18097320301,3203.01,Census Tract 3203.01,G5020,S,3438588,1176682,39.8918289,-86.1118392
+USA.PointAddress,M,100,A,"3755 E 82nd St, Indianapolis, Indiana, 46240",PointAddress,Indianapolis,46240,USA,0,-86.102793,39.909225,20112424,2011,2424,Delivra,3755 East 82nd Street,Suite 105,Indianapolis,46240,Software,0,3144090,22,0.978645,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1284,18,97,320301,18097320301,3203.01,Census Tract 3203.01,G5020,S,3438588,1176682,39.8918289,-86.1118392
+USA.PointAddress,M,100,A,"4355 Lafayette Blvd, Indianapolis, Indiana, 46254",PointAddress,Indianapolis,46254,USA,0,-86.250697,39.834782,20131292,2013,1294,Mister Quik,4355 Lafayette Boulevard, ,Indianapolis,46254,Consumer Products & Services,2000,11297176,74,3.1427,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1294,18,97,310306,18097310306,3103.06,Census Tract 3103.06,G5020,S,5193458,0,39.8312731,-86.252558
+USA.PointAddress,M,100,A,"7602 E 88th Pl, Indianapolis, Indiana, 46256",PointAddress,Indianapolis,46256,USA,0,-86.034942,39.916828,20153103,2015,3103,RICS Software,7602 East 88th Place, ,Indianapolis,46256,Software,1983,4995672,39,1.1152,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1297,18,97,330103,18097330103,3301.03,Census Tract 3301.03,G5020,S,5257727,0,39.9197947,-86.0506389
+USA.Postal,M,100,A,"46260, Indianapolis, Indiana",Postal,Indianapolis,46260,USA,0,-86.193526,39.898761,20132800,2013,2802,LeadJen,LeadJen,"1311 West 96th Street, Suite 250",Indianapolis,46260,Business Products & Services,2004,2712551,62,1.2369,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1299,18,97,320108,18097320108,3201.08,Census Tract 3201.08,G5020,S,2654914,0,39.9047551,-86.1934762
+USA.PointAddress,M,100,A,"9302 N Meridian St, Indianapolis, Indiana, 46260",PointAddress,Indianapolis,46260,USA,0,-86.158037,39.923751,20150441,2015,441,Activate Healthcare,9302 North Meridian St,Suite 385,Indianapolis,46260,Health,2009,13091160,130,10.6365,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1302,18,97,320107,18097320107,3201.07,Census Tract 3201.07,G5020,S,2653199,0,39.9197558,-86.1554502
+USA.PointAddress,M,100,A,"9247 N Meridian St, Indianapolis, Indiana, 46260",PointAddress,Indianapolis,46260,USA,0,-86.157785,39.922651,20150784,2015,784,CloudOne,9247 North Meridian Street,Suite 222,Indianapolis,46260,IT Services,2010,5392812,32,5.682,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1302,18,97,320107,18097320107,3201.07,Census Tract 3201.07,G5020,S,2653199,0,39.9197558,-86.1554502
+USA.StreetAddress,M,90.92,A,"9245 N Meridian St, Indianapolis, Indiana, 46260",StreetAddress,Indianapolis,46260,USA,0,-86.157591,39.921162,20120829,2012,829,Home Health Depot,9245 North Meridian,Suite 200,Indianapolis,46260,Health,1998,19277634,125,4.115,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1302,18,97,320107,18097320107,3201.07,Census Tract 3201.07,G5020,S,2653199,0,39.9197558,-86.1554502
+USA.PointAddress,M,100,A,"8604 Allisonville Rd, Indianapolis, Indiana, 46250",PointAddress,Indianapolis,46250,USA,0,-86.074832,39.913175,20142051,2014,2051,Formstack,8604 Allisonville Rd.,Suite 300,Indianapolis,46250,Software,2006,3474000,27,1.9642,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1306,18,97,320303,18097320303,3203.03,Census Tract 3203.03,G5020,S,1581834,531,39.9178785,-86.0762495
+USA.PointAddress,M,100,A,"8604 Allisonville Rd, Indianapolis, Indiana, 46250",PointAddress,Indianapolis,46250,USA,0,-86.074832,39.913175,20092112,2009,2113,US Trades,8604 Allisonville Road,Ste 207,Indianapolis,46250,Human Resources,2000,14828304,240,1.501,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1306,18,97,320303,18097320303,3203.03,Census Tract 3203.03,G5020,S,1581834,531,39.9178785,-86.0762495
+USA.PointAddress,M,100,A,"6825 Hillsdale Ct, Indianapolis, Indiana, 46250",PointAddress,Indianapolis,46250,USA,0,-86.049972,39.896123,20130753,2013,755,Click Ship Commerce,6825 Hillsdale Court, ,Indianapolis,46250,Retail,2005,3467388,7,6.0705,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1310,18,97,330106,18097330106,3301.06,Census Tract 3301.06,G5020,S,3112330,0,39.9000296,-86.0410847
+USA.PointAddress,M,100,A,"6880 Hillsdale Ct, Indianapolis, Indiana, 46250",PointAddress,Indianapolis,46250,USA,0,-86.048801,39.896158,20131749,2013,1751,Main Event Merchandise Group,6880 Hillsdale Court, ,Indianapolis,46250,Advertising & Marketing,2000,7652189,25,2.2017,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1310,18,97,330106,18097330106,3301.06,Census Tract 3301.06,G5020,S,3112330,0,39.9000296,-86.0410847
+USA.PointAddress,M,100,A,"6081 E 82nd St, Indianapolis, Indiana, 46250",PointAddress,Indianapolis,46250,USA,0,-86.062491,39.905203,20101242,2010,1240,eImagine Technology Group,6081 East 82nd St., ,Indianapolis,46250,Software,1998,4086130,32,2.395,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1311,18,97,330105,18097330105,3301.05,Census Tract 3301.05,G5020,S,6893954,0,39.8967962,-86.0559045
+USA.Postal,M,100,A,"46250, Indianapolis, Indiana",Postal,Indianapolis,46250,USA,0,-86.082018,39.908417,20122504,2012,2503,Health Systems International,5975 Castle Creek Parkway,Suite 100,Indianapolis,46250,Health,2004,40039418,140,0.969,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1314,18,97,320304,18097320304,3203.04,Census Tract 3203.04,G5020,S,8041907,101792,39.899007,-86.0854201
+USA.PointAddress,M,100,A,"5252 E 82nd St, Indianapolis, Indiana, 46250",PointAddress,Indianapolis,46250,USA,0,-86.079912,39.905218,20110354,2011,355,iGoDigital,5252 E. 82nd St.,Suite 300,Indianapolis,46250,Software,1999,3939674,20,9.539436,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1314,18,97,320304,18097320304,3203.04,Census Tract 3203.04,G5020,S,8041907,101792,39.899007,-86.0854201
+USA.Postal,M,100,A,"46250, Indianapolis, Indiana",Postal,Indianapolis,46250,USA,0,-86.082018,39.908417,20143502,2014,3502,Language Training Center,5750 Castle Creek Parkway,Suite 487,Indianapolis,46250,Education,1993,4223265,22,0.9426,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1314,18,97,320304,18097320304,3203.04,Census Tract 3203.04,G5020,S,8041907,101792,39.899007,-86.0854201
+USA.Postal,M,100,A,"46250, Indianapolis, Indiana",Postal,Indianapolis,46250,USA,0,-86.082018,39.908417,20082152,2008,2146,nFocus Technologies,6930 Atrium Blvd Suite 300, ,Indianapolis,46250,Software,2001,5578304,50,1.7179,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1314,18,97,320304,18097320304,3203.04,Census Tract 3203.04,G5020,S,8041907,101792,39.899007,-86.0854201
+USA.PointAddress,M,100,A,"5255 Winthrop Ave, Indianapolis, Indiana, 46220",PointAddress,Indianapolis,46220,USA,0,-86.141756,39.848891,20152314,2015,2314,DeveloperTown,5255 Winthrop Ave, ,Indianapolis,46220,Software,2010,4456000,37,1.6731,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1317,18,97,321800,18097321800,3218,Census Tract 3218,G5020,S,1752522,0,39.8502897,-86.1533414
+USA.PointAddress,M,100,A,"1022 E 52nd St, Indianapolis, Indiana, 46205",PointAddress,Indianapolis,46205,USA,0,-86.140901,39.847018,20153527,2015,3527,TCC Software Solutions,1022 E. 52nd Street, ,Indianapolis,46205,IT Services,1996,25206521,183,0.9075,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1317,18,97,321800,18097321800,3218,Census Tract 3218,G5020,S,1752522,0,39.8502897,-86.1533414
+USA.StreetAddress,M,100,A,"14550 Clay Terrace Blvd, Carmel, Indiana, 46032",StreetAddress,Carmel,46032,USA,0,-86.130004,39.999266,20110218,2011,219,ChaCha,14550 Clay Terrace Blvd.,Suite 130,Carmel,46032,Media,0,6280920,71,14.41145,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1337,18,57,110906,18057110906,1109.06,Census Tract 1109.06,G5020,S,5696252,54243,39.9919237,-86.1488664
+USA.PointAddress,M,100,A,"14390 Clay Terrace Blvd, Carmel, Indiana, 46032",PointAddress,Carmel,46032,USA,0,-86.129695,39.996921,20150228,2015,228,Mainstreet,14390 Clay Terrace Blvd.,Ste. 205,Carmel,46032,Real Estate,2002,175200000,80,19.2443,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1337,18,57,110906,18057110906,1109.06,Census Tract 1109.06,G5020,S,5696252,54243,39.9919237,-86.1488664
+USA.PointAddress,M,100,A,"11955 Exit Five Pkwy, Fishers, Indiana, 46037",PointAddress,Fishers,46037,USA,0,-85.998696,39.963806,20130940,2013,942,Exacq Technologies,11955 Exit Five Parkway #3, ,Fishers,46037,Security,2002,54567922,118,4.6159,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1340,18,57,110807,18057110807,1108.07,Census Tract 1108.07,G5020,S,7631245,231433,39.9471614,-86.006079
+USA.PointAddress,M,100,A,"12024 Exit Five Pkwy, Fishers, Indiana, 46037",PointAddress,Fishers,46037,USA,0,-85.999051,39.963644,20152732,2015,2732,Stratosphere Quality,12024 Exit Five Parkway, ,Fishers,46037,Manufacturing,2009,89001138,1500,1.3326,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1340,18,57,110807,18057110807,1108.07,Census Tract 1108.07,G5020,S,7631245,231433,39.9471614,-86.006079
+USA.PointAddress,M,100,A,"8477 Fishers Center Dr, Fishers, Indiana, 46038",PointAddress,Fishers,46038,USA,0,-86.019932,39.955884,20110671,2011,672,Wise Payment Systems,8477 Fishers Center Drive, ,Fishers,46038,Financial Services,0,3864217.3,65,4.749633,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1341,18,57,110810,18057110810,1108.1,Census Tract 1108.10,G5020,S,10313757,151882,39.9403518,-86.032153
+USA.StreetAddress,M,92.08,A,"6100 W 96th St, Indianapolis, Indiana, 46077",StreetAddress,Indianapolis,46077,USA,0,-86.264773,39.92512,20100946,2010,944,Bluefish Wireless Management,6100 W 96TH ST STE 175, ,Indianapolis,46278,Telecommunications,2001,13603000,76,3.143,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1378,18,11,810605,18011810605,8106.05,Census Tract 8106.05,G5020,S,14626382,51994,39.9438773,-86.2614083
+USA.PointAddress,M,100,A,"5100 Charles Ct, Zionsville, Indiana, 46077",PointAddress,Zionsville,46077,USA,0,-86.246403,39.941437,20091803,2009,1804,Reindeer Auto Relocation,5100 Charles Court,N/A,Zionsville,46077,Logistics & Transportation,1997,20837945,47,1.763,1,18011,IN,Boone County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1378,18,11,810605,18011810605,8106.05,Census Tract 8106.05,G5020,S,14626382,51994,39.9438773,-86.2614083
+USA.Postal,M,100,A,"46055, Mccordsville, Indiana",Postal,Mccordsville,46055,USA,0,-85.931037,39.887616,20080764,2008,761,Jenmarco,PO Box 128, ,McCordsville,46055,Advertising & Marketing,1997,2969765,2,4.6066,1,18059,IN,Hancock County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1380,18,59,410200,18059410200,4102,Census Tract 4102,G5020,S,80955330,184494,39.9070143,-85.8716398
+USA.StreetAddress,M,100,A,"1300 Windhorst Way, Greenwood, Indiana, 46143",StreetAddress,Greenwood,46143,USA,0,-86.077336,39.617892,20142551,2014,2551,One Click Ventures,"1300 Windhorst Way, Suite A", ,Greenwood,46143,Media,2005,8498625,60,1.4778,1,18081,IN,Johnson County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1393,18,81,610201,18081610201,6102.01,Census Tract 6102.01,G5020,S,6935429,0,39.6256113,-86.0905704
+USA.PointAddress,M,100,A,"435 E Main St, Greenwood, Indiana, 46143",PointAddress,Greenwood,46143,USA,0,-86.099221,39.613853,20082218,2008,2212,American Sentry Guard,435 East Main Street,Suite B1,Greenwood,46143,Security,1999,7669220,43,1.666,1,18081,IN,Johnson County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1394,18,81,610202,18081610202,6102.02,Census Tract 6102.02,G5020,S,7463768,0,39.6006872,-86.0830558
+USA.PointAddress,M,100,A,"201 W 103rd St, Indianapolis, Indiana, 46290",PointAddress,Indianapolis,46290,USA,0,-86.1631,39.933448,20133082,2013,3084,Allegient,201 W. 103rd St. Suite 520, ,"Indianapolis,",46290,IT Services,2001,22021022,148,1.0779,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1424,18,57,111102,18057111102,1111.02,Census Tract 1111.02,G5020,S,17412874,356013,39.93531,-86.175431
+USA.StreetAddress,M,100,A,"450 E 96th St, Indianapolis, Indiana, 46240",StreetAddress,Indianapolis,46240,USA,0,-86.150226,39.927144,20091146,2009,1147,Consona,450 E. 96th Street,Suite 300,Indianapolis,46240,Software,1986,132000000,700,2.763,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1424,18,57,111102,18057111102,1111.02,Census Tract 1111.02,G5020,S,17412874,356013,39.93531,-86.175431
+USA.StreetAddress,M,100,A,"9820 Association Ct, Indianapolis, Indiana, 46280",StreetAddress,Indianapolis,46280,USA,0,-86.100297,39.929477,20131694,2013,1696,Bastian Solutions,9820 Association Court, ,Indianapolis,46280,Engineering,1952,141200000,351,2.2882,1,18057,IN,Hamilton County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1436,18,57,111101,18057111101,1111.01,Census Tract 1111.01,G5020,S,7786173,681420,39.938857,-86.084091
+USA.PointAddress,M,100,A,"6610 N Shadeland Ave, Indianapolis, Indiana, 46220",PointAddress,Indianapolis,46220,USA,0,-86.046127,39.8777,20152124,2015,2124,MS Companies,6610 N Shadeland Ave, ,Indianapolis,46220,Business Products & Services,1999,64932000,2330,1.8369,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1463,18,97,330401,18097330401,3304.01,Census Tract 3304.01,G5020,S,7199468,369551,39.873679,-86.0601181
+USA.StreetAddress,M,90.96,A,"1030 E Washington St, Indianapolis, Indiana, 46202",StreetAddress,Indianapolis,46202,USA,0,-86.140298,39.766973,20111777,2011,1777,Angie's List,1030 East W ashington Street, ,Indianapolis,46204,Consumer Products & Services,1995,59039000,435,1.497948,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1470,18,97,354400,18097354400,3544,Census Tract 3544,G5020,S,1365986,0,39.7741994,-86.1370924
+USA.PointAddress,M,100,A,"1030 E Washington St, Indianapolis, Indiana, 46202",PointAddress,Indianapolis,46202,USA,0,-86.139792,39.766979,20081497,2008,1493,Brownstone Publishing LLC,1030 East Washington Street, ,Indianapolis,46202,Media,1995,23635000,350,2.5287,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1470,18,97,354400,18097354400,3544,Census Tract 3544,G5020,S,1365986,0,39.7741994,-86.1370924
+USA.PointAddress,M,100,A,"135 N College Ave, Indianapolis, Indiana, 46202",PointAddress,Indianapolis,46202,USA,0,-86.145566,39.768939,20152006,2015,2006,Sun King Brewing Company,135 N. College Ave., ,Indianapolis,46202,Food & Beverage,2008,9822637,60,1.9682,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1471,18,97,354200,18097354200,3542,Census Tract 3542,G5020,S,1851948,0,39.7752465,-86.1479086
+USA.PointAddress,M,100,A,"531 E Market St, Indianapolis, Indiana, 46204",PointAddress,Indianapolis,46204,USA,0,-86.147643,39.768233,20153354,2015,3354,TrendyMinds,531 E. Market Street, ,Indianapolis,46204,Advertising & Marketing,1995,5685116,46,0.9872,1,18097,IN,Marion County,18,26900,"Indianapolis-Carmel, IN Metropolitan Statistical Area","Indianapolis-Carmel, IN",1471,18,97,354200,18097354200,3542,Census Tract 3542,G5020,S,1851948,0,39.7752465,-86.1479086
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
+ ,U,0,A, , , , , ,0,0,0,0,0,0, , , , ,0, ,0,0,0,0,0,0, , ,0,0, , ,0, , , , , , , , ,0,0, , 
